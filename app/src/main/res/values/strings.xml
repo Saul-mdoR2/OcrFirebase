@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OcrFirebase</string>
+    <string name="message_permission_denied">No es posible continuar, se requeiere permiso a la camara del dispositivo.</string>
+    <string name="txt_picture_canceled">No se capturó la imagen</string>
+</resources>
